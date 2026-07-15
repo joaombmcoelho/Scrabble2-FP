@@ -1,4 +1,4 @@
-# Scrabble Game II with bot (Foundations of Programming)
+# Scrabble Game II with bot - Foundations of Programming (FP)
 
 A Python programming project developed for the FP course (2025/2026) at Instituto Superior Técnico (IST), expanding the Scrabble Game I with Abstract Data Types (ADTs) and automated computer agents.
 
