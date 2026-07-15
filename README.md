@@ -21,7 +21,7 @@ Load the script using Python:
 python3 FP2526P2.py
 ```
 
+Launch game with 1 player and 2 bots, vocabulary file, and seed:
 ```python
-# Launch game with players (humans and bots), vocabulary file, and seed
 scrabble2(('João', '@MEDIO', '@DIFICIL'), 'words.txt', 12345)
 ```
